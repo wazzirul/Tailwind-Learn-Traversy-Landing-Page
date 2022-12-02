@@ -1,3 +1,6 @@
+@import url('font-graphik.css');
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&amp;lang=en');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

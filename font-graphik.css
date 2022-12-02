@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik Light'), local('Graphik-Light'),
+        url('fonts/graphik/Graphik-Light.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Light.woff') format('woff'),
+        url('fonts/graphik/Graphik-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik Light'), local('Graphik-Light'),
+        url('fonts/graphik/Graphik-Light_1.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Light_1.woff') format('woff'),
+        url('fonts/graphik/Graphik-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/graphik/Graphik-Medium.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Medium.woff') format('woff'),
+        url('fonts/graphik/Graphik-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik-Medium'),
+        url('fonts/graphik/Graphik-Medium_1.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Medium_1.woff') format('woff'),
+        url('fonts/graphik/Graphik-Medium_1.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik-Medium'),
+        url('fonts/graphik/Graphik-Medium_2.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Medium_2.woff') format('woff'),
+        url('fonts/graphik/Graphik-Medium_2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/graphik/Graphik_Light.woff2') format('woff2'),
+        url('fonts/graphik/Graphik_Light.woff') format('woff'),
+        url('fonts/graphik/Graphik_Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik Regular'), local('Graphik-Regular'),
+        url('fonts/graphik/Graphik-Regular.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Regular.woff') format('woff'),
+        url('fonts/graphik/Graphik-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: url('fonts/graphik/Graphik_Regular.woff2') format('woff2'),
+        url('fonts/graphik/Graphik_Regular.woff') format('woff'),
+        url('fonts/graphik/Graphik_Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src: local('Graphik Regular'), local('Graphik-Regular'),
+        url('fonts/graphik/Graphik-Regular_1.woff2') format('woff2'),
+        url('fonts/graphik/Graphik-Regular_1.woff') format('woff'),
+        url('fonts/graphik/Graphik-Regular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
